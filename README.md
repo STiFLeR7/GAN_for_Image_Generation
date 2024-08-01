@@ -40,3 +40,23 @@ Ensure you have the following installed:
     ```
 2. Follow the instructions in the notebook to train the GAN and generate images.
 3. ![Generated Image](example_images/generated_image.png)
+
+
+## Contributing
+
+Contributions are welcome! Please open an issue to discuss what you would like to change or add.
+
+1. Fork the repository.
+2. Create a new branch:
+    ```sh
+    git checkout -b master
+    ```
+3. Make your changes and commit them:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```sh
+    git push origin master
+    ```
+5. Open a pull request.
